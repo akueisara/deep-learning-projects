@@ -1,5 +1,5 @@
 
-## Project 1 - [Predicting Bike-Sharing Data (Your First Neural Network)](https://github.com/akueisara/deep-learning-nanodegree-udacity/blob/master/project-bikesharing/Your_first_neural_network.ipynb)
+## Project 1 - [Predicting Bike-Sharing Data](https://github.com/akueisara/deep-learning-nanodegree-udacity/blob/master/project-bikesharing/Your_first_neural_network.ipynb)
 
 - Implement a neural network in NumPy to predict bike rentals. 
 - The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
