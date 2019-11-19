@@ -8,4 +8,9 @@
 
 - Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 
+## project 3 - [Generate TV Scripts](https://github.com/akueisara/deep-learning-projects/blob/master/project-generate-tv-scripts/dlnd_tv_script_generation.ipynb)
+
+- Train a recurrent neural network to generate scripts in the style of dialogue from [Seinfeld](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv).
+
+
 This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
