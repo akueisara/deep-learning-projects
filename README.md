@@ -12,7 +12,7 @@
 
 - Train a recurrent neural network to generate scripts in the style of dialogue from [Seinfeld](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv).
 
-## project 4 - [Face Generation](https://github.com/akueisara/deep-learning-projects/blob/master/project-face-generation/dlnd_face_generation.ipynb)
+## Project 4 - [Face Generation](https://github.com/akueisara/deep-learning-projects/blob/master/project-face-generation/dlnd_face_generation.ipynb)
 
 - Use generative adversarial networks to generate new images of faces.
 
