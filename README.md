@@ -16,8 +16,7 @@
 
 - Use generative adversarial networks to generate new images of faces.
 
-## Project 5 - [Deploying a Sentiment Analysis Model
-](https://github.com/akueisara/deep-learning-projects/blob/master/project-deploying-a-sentiment-analysis-model/SageMaker+Project.ipynb)
+## Project 5 - [Deploying a Sentiment Analysis Model](https://github.com/akueisara/deep-learning-projects/blob/master/project-deploying-a-sentiment-analysis-model/SageMaker%20Project.ipynb)
 
 - A recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. The deployed model uses Amazon's SageMaker service to construct a simple web app that interacts with it.
 
